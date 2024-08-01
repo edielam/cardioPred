@@ -14,18 +14,18 @@ Cardiovascular disease remains a significant global health concern. This project
 4. Comparison with existing methodologies
 5. Highlighting the KDNN model's performance (91.46% accuracy)
 
-## Contents
+<!-- ## Contents
 
 - `cardiovascular_disease_prediction.ipynb`: Jupyter notebook
 <!-- - `data/`: Dataset directory (if applicable)
 - `models/`: Saved model files (if applicable)
-- `requirements.txt`: Python dependencies -->
+- `requirements.txt`: Python dependencies 
 
 ## Getting Started
 
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook cardiovascular_disease_prediction.ipynb`
+3. Run the notebook: `jupyter notebook cardiovascular_disease_prediction.ipynb` -->
 
 ## Results
 
